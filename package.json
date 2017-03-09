@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/chorpash/BarterTool#readme",
   "dependencies": {
+    "angular": "^1.6.2",
     "express": "^4.15.2"
   }
 }
