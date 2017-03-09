@@ -1,0 +1,24 @@
+{
+  "name": "bartertool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chorpash/BarterTool.git"
+  },
+  "keywords": [
+    "Barter",
+    "Money",
+    "Work"
+  ],
+  "author": "David Chorpash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chorpash/BarterTool/issues"
+  },
+  "homepage": "https://github.com/chorpash/BarterTool#readme"
+}
