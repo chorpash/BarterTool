@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/chorpash/BarterTool/issues"
   },
-  "homepage": "https://github.com/chorpash/BarterTool#readme"
+  "homepage": "https://github.com/chorpash/BarterTool#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
